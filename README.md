@@ -17,6 +17,3 @@ I am a media designer who is currently becoming a frontend developer.<br>I'm loo
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MonaEisMunich) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
